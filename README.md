@@ -10,3 +10,8 @@ the POST methods are only accessible by an admin with a token verification as a 
 <br>
 <br>
 <p> most of the code used is from : <a href="https://github.com/beaucarnes/mern-exercise-tracker-mongodb" >mern-exercise-tracker-mongodb</a></p>
+
+## clone or download
+```terminal
+$ git clone https://github.com/medamineamara/tebsi-backend.git
+$ npm i
